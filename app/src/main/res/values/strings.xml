@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeTime</string>
+
+    <string name="mainactivity_clear">Clear</string>
+    <string name="mainactivity_refresh">Refresh</string>
+    <string name="mainactivity_south">South</string>
+    <string name="mainactivity_north">North</string>
+    <string name="mainactivity_header">Problem</string>
+    <string name="mainactivity_no_data">No Data to Display</string>
+</resources>
